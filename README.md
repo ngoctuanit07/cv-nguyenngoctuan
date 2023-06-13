@@ -16,8 +16,8 @@ Publish in http://localhost:3002
 
 ***note: need config git with below option:
 ```
-git config --global user.name "YourUserName"
-git config --global user.email "YouEmail"
+git config --global user.name "Tuan Nguyen"
+git config --global user.email "tuannguyen0719@gmail.com"
 ```
 ### Deploy
 ```
