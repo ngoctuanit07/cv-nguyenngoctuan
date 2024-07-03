@@ -25,7 +25,7 @@ const About: React.FC = () => {
             <div className="info-profile">
               <h2><span>HI I'M</span> NGUYEN NGOC TUAN</h2>
               <h3>web developer</h3>
-              <p>Hello! I’m NGUYEN NGOC TUAN. Web Developer with over 5 years of experience.
+              <p>Hello! I’m NGUYEN NGOC TUAN. Web Developer with over 9 years of experience.
               Having an in-depth knowledge including basic HTML, CSS, JavaScript, jQuery, Vuejs,Laravel,Wordpress.I have High responsibility for work, quality in products, and customer satisfaction are my top criteria.</p>
               <div className="row">
                 <div className="col-sm-6">
