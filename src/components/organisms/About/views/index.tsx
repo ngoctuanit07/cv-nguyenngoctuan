@@ -32,7 +32,7 @@ const About: React.FC = () => {
                   <ul className="ul-info">
                     <li className="li-info">
                       <span className="title-info">Age</span>
-                      <span className="info">30</span>
+                      <span className="info">33</span>
                     </li>
                     <li className="li-info">
                       <span className="title-info">Address</span>
